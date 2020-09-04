@@ -1,0 +1,29 @@
+
+.form-item.data-v-b237504c {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	height: 84rpx;
+	margin: 10rpx 62rpx 46rpx;
+	border-bottom: 1px solid rgba(0,0,0,.16);
+}
+.input.data-v-b237504c {
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	padding: 0 40rpx;
+}
+.button.data-v-b237504c {
+	width: 630rpx;
+	margin: -8rpx auto 20rpx;
+	background-color: #ff7f02;
+	border-radius: 8rpx;
+	line-height: 96rpx;
+	text-align: center;
+	color: #FFF;
+	font-size: 36rpx;
+}
+
